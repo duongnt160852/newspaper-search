@@ -9,6 +9,7 @@ Bật Elasticsearch.
 Chạy lần lượt các lệnh sau: 
 ```bash
 $ npm install
+$ node indexData.js
 $ npm start
 $ cd client
 $ npm install
